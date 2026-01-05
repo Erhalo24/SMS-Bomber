@@ -7,7 +7,7 @@ Bombaların kralı
 
 ```console
 git clone https://github.com/Erhalo24/SMS-Bomber.git
-cd Enough-Reborn
+cd SMS-Bomber
 pip3 install -r requirements.txt
 python3 enough.py
 ```
