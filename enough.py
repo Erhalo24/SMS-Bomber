@@ -15,14 +15,13 @@ for attribute in dir(SendSms):
 while 1:
     system("cls||clear")
     print("""{}
-     ______                         _     
-    |  ____|                       | |    
-    | |__   _ __   ___  _   _  __ _| |__  
-    |  __| | '_ \ / _ \| | | |/ _` | '_ \ 
-    | |____| | | | (_) | |_| | (_| | | | |
-    |______|_| |_|\___/ \__,_|\__, |_| |_|
-                               __/ |      
-                              |___/      
+          _      _____    __     __
+    /\   | |    |  __ \ /\\ \   / /
+   /  \  | |    | |__) /  \\ \_/ / 
+  / /\ \ | |    |  ___/ /\ \\   /  
+ / ____ \| |____| |  / ____ \| |   
+/_/    \_\______|_| /_/    \_\_|   
+
     
     Sms: {}           {}by {}@zekeriyaerenalpay\n  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
